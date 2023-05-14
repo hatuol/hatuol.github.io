@@ -1,0 +1,26 @@
+{
+    "background_color": "#0086c3",
+    "description": "Atlant home app",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Atlant home",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "AtlantHome",
+    "start_url": "/",
+    "theme_color": "#0086c3",
+    "categories": [
+      "utilities"
+    ],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "/favicon.ico"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/x-icon"
+      }
+    ],
+    "shortcuts": []
+  }
